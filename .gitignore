@@ -18,3 +18,9 @@ wheels/
 
 # Local environment
 .env
+
+# Specific terminal session file
+terminal_session.session
+
+# ide files
+.idea/
